@@ -3,10 +3,10 @@ First time? Check out the tutorial game:
 https://sprig.hackclub.com/gallery/getting_started
 
 @title: slime adventure
-@description: 
-@author: 
-@tags: ['tag1', 'tag2']
-@addedOn: 2025-00-00
+@description: a relaxing game about killing slime to advance in the dungeon 
+@author: Kaptainsolo
+@tags: ['adventure', 'medieval']
+@addedOn: 2026-05-13
 */
 
 const player = "p";
